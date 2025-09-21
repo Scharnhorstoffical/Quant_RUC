@@ -1,1 +1,1 @@
-THIS IS MY HOMEWORK
+print(hello world may god bless you)
