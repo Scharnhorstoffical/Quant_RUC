@@ -1,1 +1,1 @@
-print(hello world may god bless you)
+print(hello world )
